@@ -1,6 +1,5 @@
-### LOVE MY DOG ❤️
+### Catch My Waves
 
-![dog](./dog.png)
 ![seashore](./seashore.png)
 
 
