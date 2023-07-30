@@ -1,6 +1,7 @@
 ### LOVE MY DOG ❤️
 
 ![dog](./dog.png)
+![seashore](./seashore.png)
 
 
 
