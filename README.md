@@ -1,4 +1,4 @@
-### Catch My Waves
+### Catch My Waves 🌊
 
 ![seashore](./seashore.png)
 
