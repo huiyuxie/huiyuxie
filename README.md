@@ -3,7 +3,7 @@
 I'm fueled by the thrill of swimming, cycling, and surfing, and captivated by the wonders of mathematics and philosophy. If these resonate with you, we're set for a great friendship!
 - Currently looking for more surf mates
 - Currently working on how to paddle hard
-- Currently spending my summer time at bars and beaches :)
+- Currently spending my summer time at beaches :)
 
 ![seashore](./seashore.png)
 
