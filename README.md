@@ -1,4 +1,4 @@
-### Hi!
+### Hi! I'm Huiyu
 
 I'm fueled by the thrill of swimming, cycling, and surfing, and captivated by the wonders of mathematics and philosophy. If these resonate with you, we're set for a great friendship!
 
