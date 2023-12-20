@@ -4,7 +4,7 @@ I'm fueled by the thrill of swimming, cycling, and surfing, and captivated by th
 
 I Love photography!
 
-![sunrise](./IMG_6250.jpeg)
+![sunrise](./sunrise.jpeg)
 
 
 
