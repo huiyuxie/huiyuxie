@@ -1,10 +1,10 @@
 ### Hi! I'm Huiyu
 
-I'm fueled by the thrill of swimming, cycling, and surfing, and captivated by the wonders of mathematics and philosophy. If these resonate with you, we're set for a great friendship!
+I love swimming, cycling, and surfing, and captivated by the wonders of mathematics and philosophy. If these resonate with you, we're set for a great friendship!
 
-I Love photography!
+I will be moving to Hawaii soon!
 
-![sunrise](./sunrise.jpeg)
+![hawaii](./Hawaii.jpg)
 
 
 
