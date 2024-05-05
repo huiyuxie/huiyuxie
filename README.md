@@ -1,8 +1,10 @@
 ### Hi! I'm Huiyu
 
-I love swimming, cycling, and surfing, and captivated by the wonders of mathematics and philosophy. If these resonate with you, we're set for a great friendship!
+Passionate about surfing, soon to make Hawaii my home - where endless waves and adventures await!
 
-I will be moving to Hawaii soon!
+Engaged in a GSoC project, accelerating PDE solvers with GPU programming — so grateful for all support!
+
+Excited to unveil a website showcasing Hawaii's breathtaking beauty — coming soon!!
 
 ![hawaii](./Hawaii.jpg)
 
