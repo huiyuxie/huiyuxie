@@ -1,6 +1,6 @@
 ### Hi! I'm Huiyu
 
-Passionate about surfing, soon to make Hawaii my home - where endless waves and adventures await!
+Passionate about surfing, soon to make Hawaii my home — where endless waves and adventures await!
 
 Engaged in a GSoC project, accelerating PDE solvers with GPU programming — so grateful for all support!
 
