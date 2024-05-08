@@ -1,10 +1,10 @@
-### Hi! I'm Huiyu
+### Hi! I'm Huiyu :)
 
-Passionate about surfing, soon to make Hawaii my home — where endless waves and adventures await!
+Welcome to my GitHub profile! 
 
-Engaged in a GSoC project, accelerating PDE solvers with GPU programming — so grateful for all support!
+I'm currently working on the project for Google Summer of Code ([GSoC Project](https://huiyuxie.github.io/)) and I will be moving to Hawaii soon!
 
-Excited to unveil a website showcasing Hawaii's breathtaking beauty — coming soon!!
+I love surfing and photography!
 
 ![hawaii](./Hawaii.jpg)
 
