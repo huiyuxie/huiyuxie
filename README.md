@@ -1,6 +1,6 @@
 ### Hello, I'm Huiyu! :)
 
-I work on the project for Google Summer of Code ([GSoC Project](https://huiyuxie.github.io/)) and I will be moving to Hawaii soon!
+I work on the project for Google Summer of Code ([GSoC Project](https://huiyuxie.github.io/)) and I am now in Hawaii!
 
 Surfing, cycling, and photography are my passions!
 
