@@ -1,12 +1,12 @@
 ### Hello, I'm Huiyu! :)
 
+![GitHub Contribution Snake](https://raw.githubusercontent.com/your-username/github-contribution-snake/output/github-contribution-grid-snake.svg)
+
 I work on the project for Google Summer of Code ([GSoC Project](https://huiyuxie.github.io/)) and I am now in Hawaii!
 
 Surfing, cycling, and photography are my passions!
 
 ![hawaii](./Hawaii.jpg)
-
-
 
 <!--
 **huiyuxie/huiyuxie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
