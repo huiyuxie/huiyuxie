@@ -6,9 +6,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huiyuxie/huiyuxie/output/github-contribution-grid-snake.svg">
 </picture>
 
-I work on the project for Google Summer of Code ([GSoC Project](https://huiyuxie.github.io/)) and I am now in Hawaii!
+I'm now staying in Hawai'i and exploring the world on my own. I love math, surfing, and coding.
 
-Surfing, cycling, and photography are my passions!
+Super lucky to meet you in open source!
 
 ![hawaii](./Hawaii.jpg)
 
