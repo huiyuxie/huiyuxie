@@ -8,7 +8,7 @@
 
 I'm now staying in Hawai'i and exploring the world on my own. I love math, surfing, and coding.
 
-Super lucky to meet you in open source!
+Good to see you in open source!
 
 ![hawaii](./Hawaii.jpg)
 
