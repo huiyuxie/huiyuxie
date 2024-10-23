@@ -1,6 +1,6 @@
 ### Hello, I'm Huiyu! :)
 
-I'm now staying in Hawai'i. I love math, surfing, and coding. Good to see you here!
+I'm now staying in **Hawai'i**. I love math, surfing, and coding. Good to see you here!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiyuxie/huiyuxie/output/github-contribution-grid-snake-dark.svg">
@@ -8,7 +8,13 @@ I'm now staying in Hawai'i. I love math, surfing, and coding. Good to see you he
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huiyuxie/huiyuxie/output/github-contribution-grid-snake.svg">
 </picture>
 
-Photo taken on October 12, 2024, at Diamond Mountain in Honolulu, using a Fujifilm GA645 film camera with Pro 400H film.
+Photography is my hobby - see what I captured!
+
+**Date**: October 12, 2024 \
+**Location**: Diamond Mountain, Honolulu \
+**Camera**: Fujifilm GA645 \
+**Film**: Fujifilm Pro 400H \
+**Photographer**: Me 
 
 ![mountain](./mountain.jpg)
 
