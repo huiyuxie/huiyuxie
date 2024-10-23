@@ -8,7 +8,9 @@ I'm now staying in Hawai'i. I love math, surfing, and coding. Good to see you he
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huiyuxie/huiyuxie/output/github-contribution-grid-snake.svg">
 </picture>
 
-![hawaii](./Hawaii.jpg)
+Photo taken on October 12, 2024, at Diamond Mountain in Honolulu, using a Fujifilm GA645 film camera with Pro 400H film.
+
+![mountain](./mountain.jpg)
 
 <!--
 **huiyuxie/huiyuxie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
