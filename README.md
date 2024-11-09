@@ -10,15 +10,45 @@ Check out five of my shots!
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huiyuxie/huiyuxie/output/github-contribution-grid-snake.svg">
 </picture> -->
 
-| August 16, 2023 <br> Makapuu Beach, Hawai'i <br> <img src="./sea.png" alt="sea" > |
-|:---|
+<table>
+  <tr>
+    <td style="width: 100%; text-align: left; padding: 10px;">
+      <strong>Makapuu Beach, Hawai'i</strong><br> 
+      <strong>Aug 16, 2023</strong><br> 
+      <img src="./sea.png" alt="sea" style="width: 100%; display: block; margin-top: 10px;">
+    </td>
+  </tr>
+</table>
 
+<table>
+  <tr>
+    <td style="width: 50%; text-align: left; padding: 10px;">
+      <strong>San Francisco Bay, California</strong><br> 
+      <strong>Dec 12, 2022</strong><br> 
+      <img src="./tree.png" alt="tree" style="width: 100%; display: block; margin-top: 10px;">
+    </td>
+    <td style="width: 50%; text-align: left; padding: 10px;">
+      <strong>San Francisco Bay, California</strong><br> 
+      <strong>Dec 12, 2022</strong><br> 
+      <img src="./chichi.png" alt="chichi" style="width: 100%; display: block; margin-top: 10px;">
+    </td>
+  </tr>
+</table>
 
-| December 15, 2023 <br> Zion National Park, Utah <br> <img src="./rock.png" alt="sea" > | December 23, 2022 <br> Vizcaya Gardens, Florida <br> <img src="./garden.png" alt="garden" > |
-|:---|:---|
-
-| December 12, 2022 <br> School Gardens, San Francisco Bay <br> <img src="./chichi.png" alt="rock" > | December 12, 2022 <br> School Gardens, San Francisco Bay <br> <img src="./tree.png" alt="tree" > |
-|:---|:---|
+<table>
+  <tr>
+    <td style="width: 50%; text-align: left; padding: 10px;">
+      <strong>Zion National Park, Utah</strong><br> 
+      <strong>Dec 15, 2023</strong><br> 
+      <img src="./rock.png" alt="rock" style="width: 100%; display: block; margin-top: 10px;">
+    </td>
+    <td style="width: 50%; text-align: left; padding: 10px;">
+      <strong>Vizcaya Gardens, Florida</strong><br> 
+      <strong>Dec 23, 2022</strong><br> 
+      <img src="./garden.png" alt="garden" style="width: 100%; display: block; margin-top: 10px;">
+    </td>
+  </tr>
+</table>
 
 <!--
 **huiyuxie/huiyuxie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
