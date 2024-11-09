@@ -17,7 +17,7 @@ Check out five of my shots!
 | December 15, 2023 <br> Zion National Park, Utah <br> <img src="./rock.png" alt="sea" > | December 23, 2022 <br> Vizcaya Gardens, Florida <br> <img src="./garden.png" alt="garden" > |
 |:---|:---|
 
-| December 12, 2022 <br> Santa Clara University, California <br> <img src="./chichi.png" alt="rock" > | December 12, 2022 <br> Santa Clara University, California <br> <img src="./tree.png" alt="tree" > |
+| December 12, 2022 <br> School Gardens, San Francisco Bay <br> <img src="./chichi.png" alt="rock" > | December 12, 2022 <br> School Gardens, San Francisco Bay <br> <img src="./tree.png" alt="tree" > |
 |:---|:---|
 
 <!--
