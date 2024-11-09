@@ -10,8 +10,9 @@ Check out three of my shots!
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huiyuxie/huiyuxie/output/github-contribution-grid-snake.svg">
 </picture> -->
 
-| **Date**: December 15, 2023 <br> **Location**: Zion National Park, Utah <br> ![rock](./rock.png) | **Date**: August 16, 2023 <br> **Location**: Makapuu Beach, Hawai'i <br> ![sea](./sea.png) | **Date**: December 12, 2022 <br> **Location**: Santa Clara University <br> ![tree](./tree.png) |
+| **Date**: December 15, 2023 <br> **Location**: Zion National Park, Utah <br> <img src="./rock.png" alt="rock" width="150"> | **Date**: August 16, 2023 <br> **Location**: Makapuu Beach, Hawai'i <br> <img src="./sea.png" alt="sea" width="150"> | **Date**: December 12, 2022 <br> **Location**: Santa Clara University <br> <img src="./tree.png" alt="tree" width="150"> |
 |---|---|---|
+
 
 
 
