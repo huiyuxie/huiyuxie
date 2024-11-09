@@ -23,9 +23,9 @@ Check out five of my shots!
 <table>
   <tr>
     <td style="width: 50%; text-align: left; padding: 10px;">
-      <strong>San Francisco Bay, California</strong><br> 
-      <strong>Dec 12, 2022</strong><br> 
-      <img src="./tree.png" alt="tree" style="width: 100%; display: block; margin-top: 10px;">
+      <strong>Zion National Park, Utah</strong><br> 
+      <strong>Dec 15, 2023</strong><br> 
+      <img src="./rock.png" alt="rock" style="width: 100%; display: block; margin-top: 10px;">
     </td>
     <td style="width: 50%; text-align: left; padding: 10px;">
       <strong>San Francisco Bay, California</strong><br> 
@@ -35,12 +35,12 @@ Check out five of my shots!
   </tr>
 </table>
 
-<table>
+<!-- <table>
   <tr>
     <td style="width: 50%; text-align: left; padding: 10px;">
-      <strong>Zion National Park, Utah</strong><br> 
-      <strong>Dec 15, 2023</strong><br> 
-      <img src="./rock.png" alt="rock" style="width: 100%; display: block; margin-top: 10px;">
+      <strong>San Francisco Bay, California</strong><br> 
+      <strong>Dec 12, 2022</strong><br> 
+      <img src="./tree.png" alt="tree" style="width: 100%; display: block; margin-top: 10px;">
     </td>
     <td style="width: 50%; text-align: left; padding: 10px;">
       <strong>Vizcaya Gardens, Florida</strong><br> 
@@ -48,7 +48,7 @@ Check out five of my shots!
       <img src="./garden.png" alt="garden" style="width: 100%; display: block; margin-top: 10px;">
     </td>
   </tr>
-</table>
+</table> -->
 
 <!--
 **huiyuxie/huiyuxie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
