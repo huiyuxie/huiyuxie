@@ -2,7 +2,7 @@
 
 I'm now living in Hawai'i for my hobby - surfing. I also love coding, surfing, and photography. 
 
-Check out three of my shots!
+Check out five of my shots!
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiyuxie/huiyuxie/output/github-contribution-grid-snake-dark.svg">
@@ -10,16 +10,15 @@ Check out three of my shots!
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huiyuxie/huiyuxie/output/github-contribution-grid-snake.svg">
 </picture> -->
 
-| **Date**: August 16, 2023 <br> **Location**: Makapuu Beach, Hawai'i <br> <img src="./sea.png" alt="sea" width="200"> | **Date**: December 23, 2022 <br> **Location**: Vizcaya Gardens, Florida <br> <img src="./garden.png" alt="garden" width="200"> |
-|---|---|
+| August 16, 2023 <br> Makapuu Beach, Hawai'i <br> <img src="./sea.png" alt="sea" > |
+|:---|
 
 
-| **Date**: December 15, 2023 <br> **Location**: Zion National Park, Utah <br> <img src="./rock.png" alt="rock"> | **Date**: December 12, 2022 <br> **Location**: Santa Clara University, California <br> <img src="./tree.png" alt="tree"> |
-|---|---|
+| December 15, 2023 <br> Zion National Park, Utah <br> <img src="./rock.png" alt="sea" > | December 23, 2022 <br> Vizcaya Gardens, Florida <br> <img src="./garden.png" alt="garden" > |
+|:---|:---|
 
-
-
-
+| December 12, 2022 <br> Santa Clara University, California <br> <img src="./chichi.png" alt="rock" > | December 12, 2022 <br> Santa Clara University, California <br> <img src="./tree.png" alt="tree" > |
+|:---|:---|
 
 <!--
 **huiyuxie/huiyuxie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
