@@ -1,6 +1,6 @@
 ### Hello, I'm Huiyu! :)
 
-I'm now living in Hawai'i for my hobby - surfing. I also love coding, surfing, and photography.
+I'm now living in Hawai'i for my hobby—surfing. I also love coding and photography.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiyuxie/huiyuxie/output/github-contribution-grid-snake-dark.svg">
