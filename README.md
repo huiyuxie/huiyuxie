@@ -1,6 +1,6 @@
-### Hello, I'm Huiyu! :)
+### Hello, I'm Huiyu!
 
-I'm now living in Hawai'i for my hobby—surfing. I also love coding and photography.
+I love math and coding. My research interest is in parallel numerical algorithms.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiyuxie/huiyuxie/output/github-contribution-grid-snake-dark.svg">
@@ -8,7 +8,9 @@ I'm now living in Hawai'i for my hobby—surfing. I also love coding and photogr
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huiyuxie/huiyuxie/output/github-contribution-grid-snake.svg">
 </picture>
 
+<!--
 ![chichi](./chichi.png)
+-->
 
 <!--
 **huiyuxie/huiyuxie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
