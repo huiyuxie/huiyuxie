@@ -1,7 +1,5 @@
 ### Hello, I'm Huiyu!
 
-I love math and coding. My research interest is in parallel numerical algorithms.
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiyuxie/huiyuxie/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huiyuxie/huiyuxie/output/github-contribution-grid-snake.svg">
