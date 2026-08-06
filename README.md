@@ -1,7 +1,8 @@
 ### Hello, I'm Huiyu!
 
-I work on open source mathematical software.
-I’m currently in a region with restricted access to GitHub, but I’ll get back to all the issues soon :)
+I work on open source mathematical software in Julia.
+
+Note: I’m currently in a region with restricted access to GitHub, but I’ll get back to all the issues soon :)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiyuxie/huiyuxie/output/github-contribution-grid-snake-dark.svg">
