@@ -1,8 +1,6 @@
 ### Hello, I'm Huiyu!
 
-I work on open source mathematical software in Julia.
-
-I’m currently in a region with restricted access to GitHub, but I’ll get back to all the issues soon :)
+I work on open-source GPU-based CFD simulation software built with Julia.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiyuxie/huiyuxie/output/github-contribution-grid-snake-dark.svg">
