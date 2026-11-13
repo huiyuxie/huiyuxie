@@ -1,6 +1,6 @@
 ### Hello, I'm Huiyu!
 
-I work on open-source GPU-based CFD simulation software built with Julia.
+I work on open-source GPU-based simulation software built with Julia.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiyuxie/huiyuxie/output/github-contribution-grid-snake-dark.svg">
